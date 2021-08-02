@@ -1,0 +1,262 @@
+10-Jun-2020 15:16:49.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.55
+10-Jun-2020 15:16:49.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 5 2020 22:10:54 UTC
+10-Jun-2020 15:16:49.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.55.0
+10-Jun-2020 15:16:49.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+10-Jun-2020 15:16:49.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+10-Jun-2020 15:16:49.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+10-Jun-2020 15:16:49.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home
+10-Jun-2020 15:16:49.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           13.0.2+8
+10-Jun-2020 15:16:49.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Jun-2020 15:16:49.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+10-Jun-2020 15:16:49.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/conf/logging.properties
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+10-Jun-2020 15:16:49.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Jun-2020 15:16:49.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+10-Jun-2020 15:16:49.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+10-Jun-2020 15:16:49.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/temp
+10-Jun-2020 15:16:49.976 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ufukbarankarakaya94/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+10-Jun-2020 15:16:50.007 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Jun-2020 15:16:50.028 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Jun-2020 15:16:50.039 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 493 ms
+10-Jun-2020 15:16:50.078 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Jun-2020 15:16:50.078 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.55
+10-Jun-2020 15:16:50.102 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+10-Jun-2020 15:16:50.228 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+10-Jun-2020 15:16:50.433 WARNING [localhost-startStop-1] org.apache.tomcat.jdbc.pool.ConnectionPool.checkPoolConfiguration maxIdle is larger than maxActive, setting maxIdle to: 10
+10-Jun-2020 15:16:50.626 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Jun-2020 15:16:50.663 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [560] ms
+10-Jun-2020 15:16:50.664 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs]
+10-Jun-2020 15:16:50.678 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs] has finished in [14] ms
+10-Jun-2020 15:16:50.678 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager]
+10-Jun-2020 15:16:50.704 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager] has finished in [26] ms
+10-Jun-2020 15:16:50.704 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples]
+10-Jun-2020 15:16:50.869 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples] has finished in [165] ms
+10-Jun-2020 15:16:50.869 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT]
+10-Jun-2020 15:16:50.882 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT] has finished in [13] ms
+10-Jun-2020 15:16:50.882 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager]
+10-Jun-2020 15:16:50.896 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager] has finished in [14] ms
+10-Jun-2020 15:16:50.900 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Jun-2020 15:16:50.905 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 866 ms
+10-Jun-2020 15:21:21.043 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+10-Jun-2020 15:21:21.063 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+10-Jun-2020 15:21:21.078 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+10-Jun-2020 15:21:21.166 WARNING [localhost-startStop-2] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+10-Jun-2020 15:21:21.367 INFO [localhost-startStop-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Jun-2020 15:21:21.373 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [295] ms
+10-Jun-2020 16:36:33.476 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/conf/tomcat-users.xml]
+10-Jun-2020 16:36:33.478 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.open The specified user database [conf/tomcat-users.xml] could not be found
+10-Jun-2020 16:36:33.478 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.open Failed to close [conf/tomcat-users.xml]
+	java.io.FileNotFoundException: /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/conf/tomcat-users.xml (No such file or directory)
+		at java.base/java.io.FileInputStream.open0(Native Method)
+		at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+		at java.base/java.io.FileInputStream.<init>(FileInputStream.java:155)
+		at java.base/java.io.FileInputStream.<init>(FileInputStream.java:110)
+		at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:86)
+		at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:184)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:466)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:689)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:160)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:309)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1145)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+10-Jun-2020 16:36:33.980 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []
+10-Jun-2020 16:36:33.985 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [ROOT]
+	java.lang.NullPointerException
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1657)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1596)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1548)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:452)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5437)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1417)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1344)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1603)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+10-Jun-2020 16:36:34.489 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/examples]
+10-Jun-2020 16:36:34.497 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [examples]
+	java.lang.IllegalStateException: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:257)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:280)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:62)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:215)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:224)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1129)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1655)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1596)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1548)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:452)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5437)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1417)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1344)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1603)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:236)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:182)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:308)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 24 more
+	Caused by: java.lang.reflect.InvocationTargetException
+		at java.base/jdk.internal.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:233)
+		... 27 more
+	Caused by: java.nio.file.NoSuchFileException: /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1842)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1160)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:719)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:239)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:169)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+		... 32 more
+10-Jun-2020 16:36:35.005 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/host-manager]
+10-Jun-2020 16:36:35.009 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [host-manager]
+	java.lang.NullPointerException
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1657)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1596)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1548)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:452)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5437)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1417)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1344)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1603)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+10-Jun-2020 16:36:35.515 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+10-Jun-2020 16:36:35.519 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [etrolley-1.00]
+	java.lang.IllegalStateException: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:257)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:280)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:62)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:215)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:224)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1129)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1655)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1596)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1548)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:452)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5437)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1417)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1344)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1603)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:236)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:182)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:308)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 24 more
+	Caused by: java.lang.reflect.InvocationTargetException
+		at java.base/jdk.internal.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:233)
+		... 27 more
+	Caused by: java.nio.file.NoSuchFileException: /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00/WEB-INF/lib/commons-collections4-4.4.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1842)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1160)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:719)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:239)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:169)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+		... 32 more
+10-Jun-2020 16:36:36.026 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/manager]
+10-Jun-2020 16:36:36.029 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [manager]
+	java.lang.NullPointerException
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1657)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1596)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1548)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:452)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5437)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1417)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1344)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1603)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+10-Jun-2020 16:36:36.534 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/docs]
+10-Jun-2020 16:36:36.537 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc JDBC driver de-registration failed for web application [docs]
+	java.lang.NullPointerException
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:1657)
+		at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:1596)
+		at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:1548)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:452)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5437)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1417)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1344)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1603)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)

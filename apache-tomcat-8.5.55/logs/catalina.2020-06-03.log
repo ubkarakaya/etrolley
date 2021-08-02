@@ -1,0 +1,1266 @@
+03-Jun-2020 00:09:21.994 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:09:22.003 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:09:22.011 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:09:22.100 WARNING [localhost-startStop-3] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:09:22.258 INFO [localhost-startStop-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:09:22.263 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [252] ms
+03-Jun-2020 00:11:12.307 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:11:12.314 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:11:12.321 INFO [localhost-startStop-4] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:11:12.412 WARNING [localhost-startStop-4] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:11:12.562 INFO [localhost-startStop-4] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:11:12.568 INFO [localhost-startStop-4] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [246] ms
+03-Jun-2020 00:13:13.123 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:13:13.131 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:13:23.160 INFO [localhost-startStop-5] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:13:23.250 WARNING [localhost-startStop-5] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:13:23.390 INFO [localhost-startStop-5] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:13:23.394 INFO [localhost-startStop-5] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [234] ms
+03-Jun-2020 00:15:23.948 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:15:23.954 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:15:33.962 INFO [localhost-startStop-6] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:15:34.054 WARNING [localhost-startStop-6] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:15:34.185 INFO [localhost-startStop-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:15:34.189 INFO [localhost-startStop-6] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [227] ms
+03-Jun-2020 00:16:35.239 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:16:35.248 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:16:35.253 INFO [localhost-startStop-7] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:16:35.341 WARNING [localhost-startStop-7] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:16:35.483 INFO [localhost-startStop-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:16:35.487 INFO [localhost-startStop-7] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [234] ms
+03-Jun-2020 00:17:16.004 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:17:16.014 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:17:26.022 INFO [localhost-startStop-8] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:17:26.111 WARNING [localhost-startStop-8] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:17:26.252 INFO [localhost-startStop-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:17:26.256 INFO [localhost-startStop-8] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [234] ms
+03-Jun-2020 00:18:26.287 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:18:26.295 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:18:26.300 INFO [localhost-startStop-9] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:18:26.393 WARNING [localhost-startStop-9] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:18:26.544 INFO [localhost-startStop-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:18:26.549 INFO [localhost-startStop-9] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [249] ms
+03-Jun-2020 00:19:47.089 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:19:47.095 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:19:57.118 INFO [localhost-startStop-10] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:19:57.203 WARNING [localhost-startStop-10] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:19:57.333 INFO [localhost-startStop-10] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:19:57.337 INFO [localhost-startStop-10] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [219] ms
+03-Jun-2020 00:21:07.872 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:21:07.880 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:21:17.888 INFO [localhost-startStop-11] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:21:17.978 WARNING [localhost-startStop-11] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:21:18.107 INFO [localhost-startStop-11] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:21:18.112 INFO [localhost-startStop-11] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [224] ms
+03-Jun-2020 00:28:08.796 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:28:08.803 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:28:18.810 INFO [localhost-startStop-12] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:28:18.894 WARNING [localhost-startStop-12] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:28:19.033 INFO [localhost-startStop-12] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:28:19.036 INFO [localhost-startStop-12] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [226] ms
+03-Jun-2020 00:29:50.082 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:29:50.092 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:29:50.097 INFO [localhost-startStop-13] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:29:50.189 WARNING [localhost-startStop-13] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:29:50.325 INFO [localhost-startStop-13] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:29:50.331 INFO [localhost-startStop-13] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [234] ms
+03-Jun-2020 00:31:10.360 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:31:10.364 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:31:10.368 INFO [localhost-startStop-14] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:31:10.458 WARNING [localhost-startStop-14] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:31:10.602 INFO [localhost-startStop-14] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:31:10.606 INFO [localhost-startStop-14] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [238] ms
+03-Jun-2020 00:35:41.263 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:35:41.269 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:35:51.296 INFO [localhost-startStop-15] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:35:51.385 WARNING [localhost-startStop-15] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:35:51.548 INFO [localhost-startStop-15] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:35:51.552 INFO [localhost-startStop-15] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [256] ms
+03-Jun-2020 00:36:41.579 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:36:41.584 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:36:41.589 INFO [localhost-startStop-16] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:36:41.675 WARNING [localhost-startStop-16] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:36:41.798 INFO [localhost-startStop-16] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:36:41.802 INFO [localhost-startStop-16] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [213] ms
+03-Jun-2020 00:39:32.889 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:39:32.899 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:39:32.906 INFO [localhost-startStop-17] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:39:32.987 WARNING [localhost-startStop-17] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:39:33.145 INFO [localhost-startStop-17] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:39:33.149 INFO [localhost-startStop-17] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [243] ms
+03-Jun-2020 00:40:03.165 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:40:03.171 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:40:03.176 INFO [localhost-startStop-18] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:40:03.257 WARNING [localhost-startStop-18] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:40:03.424 INFO [localhost-startStop-18] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:40:03.428 INFO [localhost-startStop-18] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [252] ms
+03-Jun-2020 00:44:23.552 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:44:23.559 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:44:23.564 INFO [localhost-startStop-19] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:44:23.645 WARNING [localhost-startStop-19] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:44:23.804 INFO [localhost-startStop-19] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:44:23.808 INFO [localhost-startStop-19] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [244] ms
+03-Jun-2020 00:44:53.826 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:44:53.832 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:44:53.837 INFO [localhost-startStop-20] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:44:53.923 WARNING [localhost-startStop-20] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:44:54.072 INFO [localhost-startStop-20] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:44:54.076 INFO [localhost-startStop-20] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [239] ms
+03-Jun-2020 00:46:14.106 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:46:14.112 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:46:14.118 INFO [localhost-startStop-21] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:46:14.209 WARNING [localhost-startStop-21] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:46:14.343 INFO [localhost-startStop-21] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:46:14.347 INFO [localhost-startStop-21] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [230] ms
+03-Jun-2020 00:51:34.494 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:51:34.500 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:51:34.505 INFO [localhost-startStop-22] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:51:34.586 WARNING [localhost-startStop-22] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:51:34.744 INFO [localhost-startStop-22] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:51:34.748 INFO [localhost-startStop-22] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [243] ms
+03-Jun-2020 00:52:14.770 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:52:14.777 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:52:14.782 INFO [localhost-startStop-23] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:52:14.867 WARNING [localhost-startStop-23] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:52:15.025 INFO [localhost-startStop-23] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:52:15.029 INFO [localhost-startStop-23] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [247] ms
+03-Jun-2020 00:53:15.562 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:53:15.571 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:53:25.595 INFO [localhost-startStop-24] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:53:25.678 WARNING [localhost-startStop-24] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:53:25.830 INFO [localhost-startStop-24] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:53:25.833 INFO [localhost-startStop-24] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [238] ms
+03-Jun-2020 00:53:56.350 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:53:56.359 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:54:06.383 INFO [localhost-startStop-25] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:54:06.468 WARNING [localhost-startStop-25] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:54:06.603 INFO [localhost-startStop-25] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:54:06.607 INFO [localhost-startStop-25] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [223] ms
+03-Jun-2020 00:54:47.129 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:54:47.136 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:54:57.144 INFO [localhost-startStop-26] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:54:57.221 WARNING [localhost-startStop-26] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:54:57.387 INFO [localhost-startStop-26] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:54:57.392 INFO [localhost-startStop-26] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [248] ms
+03-Jun-2020 00:58:38.024 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 00:58:38.032 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 00:58:48.041 INFO [localhost-startStop-27] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 00:58:48.126 WARNING [localhost-startStop-27] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 00:58:48.269 INFO [localhost-startStop-27] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 00:58:48.272 INFO [localhost-startStop-27] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [231] ms
+03-Jun-2020 01:04:38.963 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 01:04:38.972 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 01:04:48.980 INFO [localhost-startStop-28] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 01:04:49.061 WARNING [localhost-startStop-28] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 01:04:49.213 INFO [localhost-startStop-28] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 01:04:49.216 INFO [localhost-startStop-28] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [236] ms
+03-Jun-2020 01:20:57.559 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 01:20:57.566 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 01:20:57.570 INFO [localhost-startStop-29] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 01:20:57.654 WARNING [localhost-startStop-29] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 01:20:57.804 INFO [localhost-startStop-29] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 01:20:57.807 INFO [localhost-startStop-29] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [237] ms
+03-Jun-2020 01:21:28.831 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 01:21:28.841 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 01:21:28.846 INFO [localhost-startStop-30] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 01:21:28.933 WARNING [localhost-startStop-30] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 01:21:29.088 INFO [localhost-startStop-30] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 01:21:29.092 INFO [localhost-startStop-30] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [246] ms
+03-Jun-2020 01:24:19.160 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 01:24:19.166 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 01:24:19.171 INFO [localhost-startStop-31] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 01:24:19.262 WARNING [localhost-startStop-31] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 01:24:19.401 INFO [localhost-startStop-31] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 01:24:19.405 INFO [localhost-startStop-31] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [233] ms
+03-Jun-2020 01:40:40.374 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 01:40:40.386 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 01:40:50.412 INFO [localhost-startStop-32] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 01:40:50.495 WARNING [localhost-startStop-32] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 01:40:50.680 INFO [localhost-startStop-32] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 01:40:50.684 INFO [localhost-startStop-32] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [272] ms
+03-Jun-2020 02:04:41.235 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 02:04:41.256 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 02:04:41.260 INFO [localhost-startStop-33] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 02:04:41.337 WARNING [localhost-startStop-33] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 02:04:41.523 INFO [localhost-startStop-33] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 02:04:41.526 INFO [localhost-startStop-33] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [266] ms
+03-Jun-2020 02:06:22.076 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 02:06:22.083 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 02:06:32.091 INFO [localhost-startStop-34] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 02:06:32.178 WARNING [localhost-startStop-34] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 02:06:32.332 INFO [localhost-startStop-34] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 02:06:32.335 INFO [localhost-startStop-34] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [244] ms
+03-Jun-2020 02:14:43.119 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 02:14:43.124 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 02:16:13.176 INFO [localhost-startStop-35] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 02:16:13.260 WARNING [localhost-startStop-35] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 02:16:13.416 INFO [localhost-startStop-35] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 02:16:13.420 INFO [localhost-startStop-35] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [244] ms
+03-Jun-2020 02:21:15.244 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Jun-2020 02:21:15.253 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Jun-2020 02:21:15.270 WARNING [localhost-startStop-36] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 02:21:15.274 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Jun-2020 02:21:15.276 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+03-Jun-2020 15:39:31.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.55
+03-Jun-2020 15:39:31.671 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 5 2020 22:10:54 UTC
+03-Jun-2020 15:39:31.671 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.55.0
+03-Jun-2020 15:39:31.671 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+03-Jun-2020 15:39:31.671 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+03-Jun-2020 15:39:31.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+03-Jun-2020 15:39:31.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home
+03-Jun-2020 15:39:31.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           13.0.2+8
+03-Jun-2020 15:39:31.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Jun-2020 15:39:31.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+03-Jun-2020 15:39:31.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+03-Jun-2020 15:39:31.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Jun-2020 15:39:31.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Jun-2020 15:39:31.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Jun-2020 15:39:31.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/conf/logging.properties
+03-Jun-2020 15:39:31.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Jun-2020 15:39:31.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Jun-2020 15:39:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Jun-2020 15:39:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+03-Jun-2020 15:39:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Jun-2020 15:39:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+03-Jun-2020 15:39:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+03-Jun-2020 15:39:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/temp
+03-Jun-2020 15:39:31.676 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ufukbarankarakaya94/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+03-Jun-2020 15:39:31.716 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Jun-2020 15:39:31.742 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Jun-2020 15:39:31.764 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 544 ms
+03-Jun-2020 15:39:31.801 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Jun-2020 15:39:31.801 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.55
+03-Jun-2020 15:39:31.827 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 15:39:31.952 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 15:39:32.203 WARNING [localhost-startStop-1] org.apache.tomcat.jdbc.pool.ConnectionPool.checkPoolConfiguration maxIdle is larger than maxActive, setting maxIdle to: 10
+03-Jun-2020 15:39:32.240 WARNING [localhost-startStop-1] org.postgresql.core.v3.ConnectionFactoryImpl.log ConnectException occurred while connecting to 127.0.0.1:5432
+	java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1017)
+		at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:557)
+		at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:253)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5061)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:743)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:719)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:970)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1840)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+03-Jun-2020 15:39:32.247 SEVERE [localhost-startStop-1] org.postgresql.Driver.connect Connection error: 
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1017)
+		at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:557)
+		at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:253)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5061)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:743)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:719)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:970)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1840)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 36 more
+03-Jun-2020 15:39:32.249 SEVERE [localhost-startStop-1] org.apache.tomcat.jdbc.pool.ConnectionPool.init Unable to create initial connections of pool.
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1017)
+		at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:557)
+		at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:253)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5061)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:743)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:719)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:970)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1840)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 36 more
+03-Jun-2020 15:39:32.251 WARNING [localhost-startStop-1] org.apache.naming.NamingContext.lookup Unexpected exception resolving reference
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1017)
+		at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:557)
+		at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:253)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5061)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:743)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:719)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:970)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1840)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 36 more
+03-Jun-2020 15:39:32.251 WARNING [localhost-startStop-1] org.apache.catalina.core.NamingContextListener.addResource naming.jmxRegistrationFailed
+03-Jun-2020 15:39:32.346 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 15:39:32.415 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [587] ms
+03-Jun-2020 15:39:32.421 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs]
+03-Jun-2020 15:39:32.439 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs] has finished in [18] ms
+03-Jun-2020 15:39:32.439 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager]
+03-Jun-2020 15:39:32.469 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager] has finished in [30] ms
+03-Jun-2020 15:39:32.470 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples]
+03-Jun-2020 15:39:32.656 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples] has finished in [186] ms
+03-Jun-2020 15:39:32.656 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT]
+03-Jun-2020 15:39:32.673 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT] has finished in [17] ms
+03-Jun-2020 15:39:32.673 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager]
+03-Jun-2020 15:39:32.694 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager] has finished in [21] ms
+03-Jun-2020 15:39:32.699 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Jun-2020 15:39:32.708 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 943 ms
+03-Jun-2020 15:43:13.810 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+03-Jun-2020 15:43:13.815 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.naming.NamingContext.lookup Unexpected exception resolving reference
+	java.lang.IllegalStateException: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:257)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:280)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:62)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:215)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:224)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2278)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:855)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1327)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1180)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:65)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.deploy.NamingResourcesImpl.cleanUp(NamingResourcesImpl.java:1035)
+		at org.apache.catalina.deploy.NamingResourcesImpl.stopInternal(NamingResourcesImpl.java:1003)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5415)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1417)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1344)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1603)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:236)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:182)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:308)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 31 more
+	Caused by: java.lang.reflect.InvocationTargetException
+		at java.base/jdk.internal.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:233)
+		... 34 more
+	Caused by: java.nio.file.NoSuchFileException: /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00/WEB-INF/lib/commons-collections4-4.4.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1842)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1160)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:719)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:239)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:169)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+		... 39 more
+03-Jun-2020 15:43:13.816 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.deploy.NamingResourcesImpl.cleanUp Failed to retrieve JNDI resource [jdbc/costumer-etrolley] for container [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/etrolley-1.00]] so no cleanup was performed for that resource
+	javax.naming.NamingException: Unexpected exception resolving reference [Root exception is java.lang.IllegalStateException: java.io.IOException: java.lang.reflect.InvocationTargetException]
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:856)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.deploy.NamingResourcesImpl.cleanUp(NamingResourcesImpl.java:1035)
+		at org.apache.catalina.deploy.NamingResourcesImpl.stopInternal(NamingResourcesImpl.java:1003)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5415)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:834)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1417)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1344)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1603)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:304)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1159)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1385)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.lang.IllegalStateException: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:257)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:280)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:62)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:215)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:224)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2278)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:855)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1327)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1180)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:65)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		... 19 more
+	Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:236)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:182)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:308)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 31 more
+	Caused by: java.lang.reflect.InvocationTargetException
+		at java.base/jdk.internal.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:233)
+		... 34 more
+	Caused by: java.nio.file.NoSuchFileException: /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00/WEB-INF/lib/commons-collections4-4.4.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1842)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1160)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:719)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:239)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:169)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+		... 39 more
+03-Jun-2020 15:43:13.823 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Jun-2020 15:43:13.839 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+03-Jun-2020 15:43:13.950 WARNING [localhost-startStop-2] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+03-Jun-2020 15:43:14.106 WARNING [localhost-startStop-2] org.postgresql.core.v3.ConnectionFactoryImpl.log ConnectException occurred while connecting to 127.0.0.1:5432
+	java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1017)
+		at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:557)
+		at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:253)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5061)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:743)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:719)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:970)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1840)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+03-Jun-2020 15:43:14.110 SEVERE [localhost-startStop-2] org.postgresql.Driver.connect Connection error: 
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1017)
+		at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:557)
+		at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:253)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5061)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:743)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:719)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:970)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1840)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 36 more
+03-Jun-2020 15:43:14.112 WARNING [localhost-startStop-2] org.apache.naming.NamingContext.lookup Unexpected exception resolving reference
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1017)
+		at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:557)
+		at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:253)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5061)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:743)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:719)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:970)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1840)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 36 more
+03-Jun-2020 15:43:14.112 WARNING [localhost-startStop-2] org.apache.catalina.core.NamingContextListener.addResource naming.jmxRegistrationFailed
+03-Jun-2020 15:43:14.145 INFO [localhost-startStop-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Jun-2020 15:43:14.154 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [315] ms
+03-Jun-2020 15:43:23.273 WARNING [http-nio-8080-exec-2] org.postgresql.core.v3.ConnectionFactoryImpl.log ConnectException occurred while connecting to 127.0.0.1:5432
+	java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+03-Jun-2020 15:43:23.274 SEVERE [http-nio-8080-exec-2] org.postgresql.Driver.connect Connection error: 
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 49 more
+03-Jun-2020 15:43:23.276 WARNING [http-nio-8080-exec-2] org.apache.naming.NamingContext.lookup Unexpected exception resolving reference
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 49 more
+03-Jun-2020 15:43:27.994 WARNING [http-nio-8080-exec-5] org.postgresql.core.v3.ConnectionFactoryImpl.log ConnectException occurred while connecting to 127.0.0.1:5432
+	java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+03-Jun-2020 15:43:27.995 SEVERE [http-nio-8080-exec-5] org.postgresql.Driver.connect Connection error: 
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 49 more
+03-Jun-2020 15:43:27.998 WARNING [http-nio-8080-exec-5] org.apache.naming.NamingContext.lookup Unexpected exception resolving reference
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 49 more
+03-Jun-2020 15:44:12.653 WARNING [http-nio-8080-exec-11] org.postgresql.core.v3.ConnectionFactoryImpl.log ConnectException occurred while connecting to 127.0.0.1:5432
+	java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+03-Jun-2020 15:44:12.654 SEVERE [http-nio-8080-exec-11] org.postgresql.Driver.connect Connection error: 
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 49 more
+03-Jun-2020 15:44:12.655 WARNING [http-nio-8080-exec-11] org.apache.naming.NamingContext.lookup Unexpected exception resolving reference
+	org.postgresql.util.PSQLException: Connection to 127.0.0.1:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:245)
+		at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+		at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+		at org.postgresql.Driver.makeConnection(Driver.java:452)
+		at org.postgresql.Driver.connect(Driver.java:254)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:319)
+		at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:212)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:739)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:671)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:483)
+		at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+		at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:560)
+		at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:244)
+		at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:96)
+		at java.naming/javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:325)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:839)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:159)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:827)
+		at org.apache.naming.NamingContext.lookup(NamingContext.java:173)
+		at org.apache.naming.SelectorContext.lookup(SelectorContext.java:163)
+		at java.naming/javax.naming.InitialContext.lookup(InitialContext.java:409)
+		at it.unipd.dei.webapp.database.ConnectionHelper.getDataSource(ConnectionHelper.java:30)
+		at it.unipd.dei.webapp.servlet.AbstractDatabaseServlet.init(AbstractDatabaseServlet.java:53)
+		at it.unipd.dei.webapp.servlet.RestManagerServlet.init(RestManagerServlet.java:71)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:763)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:830)
+	Caused by: java.net.ConnectException: Connection refused
+		at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+		at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:579)
+		at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+		at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+		at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:339)
+		at java.base/java.net.Socket.connect(Socket.java:603)
+		at org.postgresql.core.PGStream.<init>(PGStream.java:69)
+		at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:156)
+		... 49 more

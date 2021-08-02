@@ -1,0 +1,27 @@
+/** User profile stylesheet **/
+.etrolley-site-main{
+    background-image: url('../images/splash.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    padding-bottom: 200px;
+    padding-top: 200px;
+}
+
+.profile-container{
+    background:#ff793f;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 20px 50px;
+}
+
+.user-image-info{
+    width:300px;
+    height:300px;
+}
+
+#etrolley-update-form input {
+    color: black;
+}

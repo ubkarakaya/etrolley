@@ -1,0 +1,30 @@
+$(document).ready(function() {
+
+    const totalPrice = sessionStorage.getItem('totalOrderPrice');
+    sessionStorage.removeItem('totalOrderPrice');
+    $('.tot-price-count').text(totalPrice);
+
+  // Radio box border
+  $('.method').on('click', function() {
+    $('.method').removeClass('blue-border');
+    $(this).addClass('blue-border');
+  });
+
+  // Validation
+  var $cardInput = $('.input-fields input');
+
+  $('.next-btn').on('click', function(e) {
+
+    $cardInput.removeClass('warning');
+
+    $cardInput.each(function() {
+       var $this = $(this);
+
+       if (!$this.val()) {
+         $this.addClass('warning');
+       }
+    });
+
+  });
+
+});

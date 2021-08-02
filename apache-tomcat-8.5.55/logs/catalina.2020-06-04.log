@@ -1,0 +1,321 @@
+04-Jun-2020 15:23:04.769 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+04-Jun-2020 15:23:04.786 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 15:23:34.812 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 15:23:34.909 WARNING [localhost-startStop-3] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 15:23:35.110 INFO [localhost-startStop-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 15:23:35.115 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [302] ms
+04-Jun-2020 15:39:26.308 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+04-Jun-2020 15:39:26.322 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 15:39:36.338 INFO [localhost-startStop-4] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 15:39:36.431 WARNING [localhost-startStop-4] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 15:39:36.578 INFO [localhost-startStop-4] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 15:39:36.583 INFO [localhost-startStop-4] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [245] ms
+04-Jun-2020 15:39:45.231 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.55
+04-Jun-2020 15:39:45.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 5 2020 22:10:54 UTC
+04-Jun-2020 15:39:45.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.55.0
+04-Jun-2020 15:39:45.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Jun-2020 15:39:45.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+04-Jun-2020 15:39:45.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Jun-2020 15:39:45.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home
+04-Jun-2020 15:39:45.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           13.0.2+8
+04-Jun-2020 15:39:45.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Jun-2020 15:39:45.235 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:39:45.236 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:39:45.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Jun-2020 15:39:45.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Jun-2020 15:39:45.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Jun-2020 15:39:45.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/conf/logging.properties
+04-Jun-2020 15:39:45.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jun-2020 15:39:45.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Jun-2020 15:39:45.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Jun-2020 15:39:45.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Jun-2020 15:39:45.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Jun-2020 15:39:45.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:39:45.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:39:45.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/temp
+04-Jun-2020 15:39:45.239 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ufukbarankarakaya94/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Jun-2020 15:39:45.270 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:39:45.284 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1068)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:552)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:848)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:662)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:303)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:469)
+		at java.base/sun.nio.ch.Net.bind(Net.java:458)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:220)
+		at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:88)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:221)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1118)
+		at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:222)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:587)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:74)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1066)
+		... 13 more
+04-Jun-2020 15:39:45.285 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 382 ms
+04-Jun-2020 15:39:45.321 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jun-2020 15:39:45.321 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.55
+04-Jun-2020 15:39:45.338 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 15:39:45.439 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 15:39:45.623 WARNING [localhost-startStop-1] org.apache.tomcat.jdbc.pool.ConnectionPool.checkPoolConfiguration maxIdle is larger than maxActive, setting maxIdle to: 10
+04-Jun-2020 15:39:45.800 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 15:39:45.833 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [495] ms
+04-Jun-2020 15:39:45.834 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs]
+04-Jun-2020 15:39:45.850 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs] has finished in [16] ms
+04-Jun-2020 15:39:45.851 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager]
+04-Jun-2020 15:39:45.875 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager] has finished in [24] ms
+04-Jun-2020 15:39:45.875 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples]
+04-Jun-2020 15:39:46.037 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples] has finished in [162] ms
+04-Jun-2020 15:39:46.037 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT]
+04-Jun-2020 15:39:46.051 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT] has finished in [14] ms
+04-Jun-2020 15:39:46.051 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager]
+04-Jun-2020 15:39:46.068 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager] has finished in [17] ms
+04-Jun-2020 15:39:46.073 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 787 ms
+04-Jun-2020 15:39:46.076 SEVERE [main] org.apache.catalina.core.StandardServer.await StandardServer.await: create[localhost:8005]: 
+	java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:469)
+		at java.base/sun.nio.ch.Net.bind(Net.java:458)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:374)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:260)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:421)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:776)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:722)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:343)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+04-Jun-2020 15:39:46.077 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:39:46.077 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Jun-2020 15:39:46.096 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 15:39:46.101 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:39:46.101 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:51:57.442 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+04-Jun-2020 15:51:57.450 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 15:52:07.481 INFO [localhost-startStop-5] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 15:52:07.575 WARNING [localhost-startStop-5] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 15:52:07.720 INFO [localhost-startStop-5] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 15:52:07.724 INFO [localhost-startStop-5] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [243] ms
+04-Jun-2020 15:53:08.253 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+04-Jun-2020 15:53:08.258 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 15:53:18.268 INFO [localhost-startStop-6] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 15:53:18.358 WARNING [localhost-startStop-6] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 15:53:18.525 INFO [localhost-startStop-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 15:53:18.530 INFO [localhost-startStop-6] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [262] ms
+04-Jun-2020 15:53:20.641 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.55
+04-Jun-2020 15:53:20.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 5 2020 22:10:54 UTC
+04-Jun-2020 15:53:20.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.55.0
+04-Jun-2020 15:53:20.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Jun-2020 15:53:20.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+04-Jun-2020 15:53:20.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Jun-2020 15:53:20.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home
+04-Jun-2020 15:53:20.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           13.0.2+8
+04-Jun-2020 15:53:20.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Jun-2020 15:53:20.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:53:20.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:53:20.647 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Jun-2020 15:53:20.647 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Jun-2020 15:53:20.647 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Jun-2020 15:53:20.647 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/conf/logging.properties
+04-Jun-2020 15:53:20.647 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jun-2020 15:53:20.647 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Jun-2020 15:53:20.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Jun-2020 15:53:20.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Jun-2020 15:53:20.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Jun-2020 15:53:20.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:53:20.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:53:20.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/temp
+04-Jun-2020 15:53:20.648 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ufukbarankarakaya94/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Jun-2020 15:53:20.676 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:53:20.690 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1068)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:552)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:848)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:662)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:303)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:469)
+		at java.base/sun.nio.ch.Net.bind(Net.java:458)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:220)
+		at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:88)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:221)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1118)
+		at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:222)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:587)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:74)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1066)
+		... 13 more
+04-Jun-2020 15:53:20.691 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 370 ms
+04-Jun-2020 15:53:20.728 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jun-2020 15:53:20.729 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.55
+04-Jun-2020 15:53:20.746 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 15:53:20.841 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 15:53:21.016 WARNING [localhost-startStop-1] org.apache.tomcat.jdbc.pool.ConnectionPool.checkPoolConfiguration maxIdle is larger than maxActive, setting maxIdle to: 10
+04-Jun-2020 15:53:21.183 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 15:53:21.213 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [467] ms
+04-Jun-2020 15:53:21.214 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs]
+04-Jun-2020 15:53:21.228 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs] has finished in [14] ms
+04-Jun-2020 15:53:21.229 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager]
+04-Jun-2020 15:53:21.251 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager] has finished in [22] ms
+04-Jun-2020 15:53:21.251 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples]
+04-Jun-2020 15:53:21.379 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples] has finished in [128] ms
+04-Jun-2020 15:53:21.379 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT]
+04-Jun-2020 15:53:21.392 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT] has finished in [13] ms
+04-Jun-2020 15:53:21.392 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager]
+04-Jun-2020 15:53:21.407 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager] has finished in [15] ms
+04-Jun-2020 15:53:21.412 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 720 ms
+04-Jun-2020 15:53:21.415 SEVERE [main] org.apache.catalina.core.StandardServer.await StandardServer.await: create[localhost:8005]: 
+	java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:469)
+		at java.base/sun.nio.ch.Net.bind(Net.java:458)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:374)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:260)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:421)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:776)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:722)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:343)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+04-Jun-2020 15:53:21.415 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:53:21.415 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Jun-2020 15:53:21.433 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 15:53:21.439 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:53:21.439 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:54:59.109 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+04-Jun-2020 15:54:59.114 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 15:54:59.120 INFO [localhost-startStop-7] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 15:54:59.243 WARNING [localhost-startStop-7] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 15:54:59.380 INFO [localhost-startStop-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 15:54:59.385 INFO [localhost-startStop-7] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [265] ms
+04-Jun-2020 15:55:06.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.55
+04-Jun-2020 15:55:06.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 5 2020 22:10:54 UTC
+04-Jun-2020 15:55:06.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.55.0
+04-Jun-2020 15:55:06.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Jun-2020 15:55:06.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+04-Jun-2020 15:55:06.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Jun-2020 15:55:06.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home
+04-Jun-2020 15:55:06.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           13.0.2+8
+04-Jun-2020 15:55:06.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Jun-2020 15:55:06.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:55:06.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:55:06.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Jun-2020 15:55:06.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Jun-2020 15:55:06.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Jun-2020 15:55:06.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/conf/logging.properties
+04-Jun-2020 15:55:06.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jun-2020 15:55:06.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Jun-2020 15:55:06.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Jun-2020 15:55:06.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Jun-2020 15:55:06.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Jun-2020 15:55:06.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:55:06.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55
+04-Jun-2020 15:55:06.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/temp
+04-Jun-2020 15:55:06.418 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ufukbarankarakaya94/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Jun-2020 15:55:06.449 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:55:06.463 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1068)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:552)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:848)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:662)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:303)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:469)
+		at java.base/sun.nio.ch.Net.bind(Net.java:458)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:220)
+		at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:88)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:221)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1118)
+		at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:222)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:587)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:74)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1066)
+		... 13 more
+04-Jun-2020 15:55:06.464 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 359 ms
+04-Jun-2020 15:55:06.498 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jun-2020 15:55:06.499 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.55
+04-Jun-2020 15:55:06.516 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 15:55:06.612 WARNING [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 15:55:06.788 WARNING [localhost-startStop-1] org.apache.tomcat.jdbc.pool.ConnectionPool.checkPoolConfiguration maxIdle is larger than maxActive, setting maxIdle to: 10
+04-Jun-2020 15:55:06.954 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 15:55:06.985 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [469] ms
+04-Jun-2020 15:55:06.986 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs]
+04-Jun-2020 15:55:07.001 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/docs] has finished in [15] ms
+04-Jun-2020 15:55:07.001 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager]
+04-Jun-2020 15:55:07.024 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/manager] has finished in [23] ms
+04-Jun-2020 15:55:07.024 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples]
+04-Jun-2020 15:55:07.153 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/examples] has finished in [129] ms
+04-Jun-2020 15:55:07.153 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT]
+04-Jun-2020 15:55:07.167 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/ROOT] has finished in [13] ms
+04-Jun-2020 15:55:07.167 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager]
+04-Jun-2020 15:55:07.183 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/host-manager] has finished in [16] ms
+04-Jun-2020 15:55:07.187 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 722 ms
+04-Jun-2020 15:55:07.190 SEVERE [main] org.apache.catalina.core.StandardServer.await StandardServer.await: create[localhost:8005]: 
+	java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:469)
+		at java.base/sun.nio.ch.Net.bind(Net.java:458)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:374)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:260)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:421)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:776)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:722)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:343)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+04-Jun-2020 15:55:07.190 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:55:07.190 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Jun-2020 15:55:07.210 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 15:55:07.215 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 15:55:07.215 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Jun-2020 16:11:10.272 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/etrolley-1.00]
+04-Jun-2020 16:11:10.279 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Jun-2020 16:11:20.291 INFO [localhost-startStop-8] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war]
+04-Jun-2020 16:11:20.380 WARNING [localhost-startStop-8] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+04-Jun-2020 16:11:20.550 INFO [localhost-startStop-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Jun-2020 16:11:20.555 INFO [localhost-startStop-8] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ufukbarankarakaya94/Desktop/apache-tomcat-8.5.55/webapps/etrolley-1.00.war] has finished in [264] ms

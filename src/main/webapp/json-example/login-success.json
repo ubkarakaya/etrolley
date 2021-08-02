@@ -1,0 +1,13 @@
+{
+    "user": {
+        "id": 22,
+        "name": "Mario",
+        "surname": "Rossi",
+        "email": "mario.rossi@example.com",
+        "role": "costumer"
+    },
+    "token": {
+        "jwt": "abcdefghil123456",
+        "expires": 1586700262
+    }
+}

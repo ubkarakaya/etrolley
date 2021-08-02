@@ -1,0 +1,262 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Select products</title>
+
+		<!-- Remember to include jQuery :) -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+		<!-- jQuery Modal -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+
+		<link rel="stylesheet" href="../css/pure-min.css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Montserrat&display=swap" rel="stylesheet"> 
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />		
+		<link rel="stylesheet" href="../css/style.css">
+		<link rel="stylesheet" href="../css/product-select.css">
+
+	</head>
+
+	<body>
+		<div class="header">
+			<div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+				<a class="pure-menu-heading" href="">e-Trolley</a>
+
+				<ul class="pure-menu-list">
+					<li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Home</a></li>
+					<li class="pure-menu-item"><a href="#" class="pure-menu-link">Login</a></li>
+					<li class="pure-menu-item"><a href="#" class="pure-menu-link">Sign Up</a></li>
+				</ul>
+			</div>
+		</div>
+		<main class="product-select-container" style="margin-top: 80px;">
+			<section id="product-page-headers">
+					<div class="pure-g">
+						<div class="pure-u-4-24 supermarket-logo-container">
+							<img src="../images/logo/logo1.jpg" alt="">
+						</div>
+						<div class="pure-u-16-24 supermarket-info-container">
+							<h1>Despar</h1>
+							<address class="supermarket-address">
+								<i class="fa fa-map-marker" aria-hidden="true"></i>
+								Via Giovanni Gradenigo 18, Padova (PD), Italy
+							</address>
+							<p class="results-number">
+								345 products available
+							</p>
+						</div>
+						<div class="pure-u-4-24 cart-container">
+							<div class="cart-box">
+								<h3>My cart</h3>
+								<p>Edit your products or end shopping</p>
+								<a class="pure-button cart-manage-button" href="#trolley-modal" rel="modal:open">
+									<i class="fa fa-shopping-cart fa-fw" aria-hidden="true"></i>
+									3 items
+								</a>
+							</div>
+						</div>
+					</div>
+			</section>
+			<div class="pure-g">
+				<aside id="product-category-selector" class="pure-u-6-24">
+					<div class="pure-menu custom-restricted-width">
+						<span class="pure-menu-heading">Select product category</span>
+
+						<ul class="pure-menu-list" id="product-category-list">
+							<li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">All</a></li>
+							<li class="pure-menu-item"><a href="#" class="pure-menu-link">Fruit</a></li>
+							<li class="pure-menu-item"><a href="#" class="pure-menu-link">Vegetables</a></li>
+							<li class="pure-menu-item"><a href="#" class="pure-menu-link">Eggs, milk and dairy</a></li>
+							<li class="pure-menu-item"><a href="#" class="pure-menu-link">Cold Cuts and cheese</a></li>
+						</ul>
+					</div>
+				</aside>
+				
+				<section id="product-list" class="pure-u-18-24">
+					<div id="product-filters">
+						<p id="product-found-count">
+							Found <strong>345 Products</strong> for category "All"
+						</p>
+						<form action="" class="pure-form pure-form-aligned">
+							<div class="pure-control-group">
+								<input type="text" id="product-search" placeholder="Search product">
+								<label for="order-by">Order by</label>
+								<select id="order-by">
+									<option>Price descending &darr;</option>
+									<option>Price ascending &uarr;</option>
+								</select>
+							</div>	
+						</form>
+					</div>
+					
+					<div id="product-items">
+						<ul class="product-list-ul">
+							<li>
+								<div class="product-entry">
+									<h2 class="product-title">Chef</h2>
+									<figure class="product-img">
+										<img class="pure-img" src="../images/products/chef-panna.png">
+									</figure>
+									<p class="product-description">Panna 3 x 125 ml</p>
+									
+									<div class="price-cart-container">
+										<div class="price-value">
+											<p>€ 1,25</p>
+										</div>
+										
+										<div class="add-to-cart-wrap">
+											<button class="pure-button" title="Add to cart"><i class="fa fa-cart-plus" aria-hidden="true"></i></button>
+										</div>
+									</div>
+								</div>
+							</li>
+							
+							<li>
+								<div class="product-entry">
+									<h2 class="product-title">Pan Bauletto</h2>
+									<figure class="product-img">
+										<img class="pure-img" src="../images/products/pan-bauletto.png">
+									</figure>
+									<p class="product-description">
+                                        Mulino Bianco Pan Bauletto Bianco 400 g
+                                    </p>
+									
+									<div class="price-cart-container">
+										<div class="price-value">
+											<p>€ 1,25</p>
+										</div>
+										
+										<div class="add-to-cart-wrap">
+											<button class="pure-button" title="Add to cart"><i class="fa fa-cart-plus" aria-hidden="true"></i></button>
+										</div>
+									</div>
+								</div>
+							</li>
+							
+							<li>
+								<div class="product-entry">
+									<h2 class="product-title">Gocciole</h2>
+									<figure class="product-img">
+										<img class="pure-img" src="../images/products/gocciole.png">
+									</figure>
+									<p class="product-description">
+                                        Pavesi Gocciole Chocolate 500g
+									</p>
+									
+									<div class="price-cart-container">
+										<div class="price-value">
+											<p>€ 1,25</p>
+										</div>
+										
+										<div class="add-to-cart-wrap">
+											<button class="pure-button" title="Add to cart"><i class="fa fa-cart-plus" aria-hidden="true"></i></button>
+										</div>
+									</div>
+								</div>
+							</li>
+							
+							<li>
+								<div class="product-entry">
+									<h2 class="product-title">Acqua Sant'Anna</h2>
+									<figure class="product-img">
+										<img class="pure-img" src="../images/products/acqua.png">
+									</figure>
+									<p class="product-description">
+										Sant'Anna Naturale Sorgente 6 x 1,5 L
+									</p>
+									
+									<div class="price-cart-container">
+										<div class="price-value">
+											<p>€ 1,25</p>
+										</div>
+										
+										<div class="add-to-cart-wrap">
+											<button class="pure-button" title="Add to cart"><i class="fa fa-cart-plus" aria-hidden="true"></i></button>
+										</div>
+									</div>
+								</div>
+							</li>
+							
+						</ul>
+					</div>
+				</section>
+				
+
+			</div>
+			
+			<div id="trolley-modal" class="modal">
+				<h2><i class="fa fa-shopping-cart" aria-hidden="true"></i> Your trolley</h2>
+				
+				<table class="pure-table pure-table-bordered">
+					<colgroup>
+						<col span="1" style="width: 20%;">
+						<col span="1" style="width: 40%;">
+						<col span="1" style="width: 25%;">
+						<col span="1" style="width: 15%;">
+					</colgroup>
+					<thead>
+						<tr>
+							<th>#</th>
+							<th>Name</th>
+							<th>Quantity</th>
+							<th>Price (€)</th>
+						</tr>
+					</thead>
+					
+					<tbody>
+						<tr>
+							<td>
+								<button class="pure-button cart-remove">
+									<i class="fa fa-times" aria-hidden="true"></i>
+								</button>
+							</td>
+							<td>
+								<img class="pure-img" src="../images/products/chef-panna.png">
+								Panna chef
+							</td>
+							<td><input type="number" step="1" min="0" value="2"></td>
+							<td>2,50</td>
+						</tr>
+						
+						<tr>
+							<td>
+								<button class="pure-button cart-remove">
+									<i class="fa fa-times" aria-hidden="true"></i>
+								</button>
+							</td>
+							<td>
+								<img class="pure-img" src="../images/products/gocciole.png">
+								Gocciole
+							</td>
+							<td><input type="number" step="1" min="0" value="1"></td>
+							<td>1,25</td>
+						</tr>
+					</tbody>
+					
+					<tfoot>
+						<tr>
+							<th colspan="3">Total</th>
+							<td>3,75</td>
+						</tr>
+					</tfoot>
+				</table>
+				
+				<div class="cart-actions-container">
+					<a class="pure-button" id="empty-trolley-btn" href="#">
+						<i class="fa fa-trash-o fa-fw" aria-hidden="true"></i>
+						Empty trolley
+					</a>
+					
+					<a class="pure-button" id="order-continue-btn" href="#">
+						<i class="fa fa-arrow-right fa-fw" aria-hidden="true"></i>
+						Continue with the order
+					</a>
+				</div>
+			</div>
+		</main>
+	</body>
+</html>

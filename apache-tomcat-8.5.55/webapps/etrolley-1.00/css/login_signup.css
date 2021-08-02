@@ -1,0 +1,218 @@
+/* form login */
+.login {
+    width: 30%;
+    height: auto;
+    border-radius: 8px;
+    margin: 7% auto;
+    box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+    padding: 2% 5% 2% 5%;
+    background-color: #ff793f;
+}
+
+/* form overlay */
+.overlay{
+    background-image: url('../images/login.jpg');
+    background-size: cover;
+    z-index: 1;
+    overflow: auto;
+}
+
+/* form container */
+.con {
+    display: -webkit-flex;
+    display: flex;
+
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+    margin: auto;
+}
+/* form signup */
+.form-signup{
+  width: 45%;
+  height: auto;
+  border-radius: 8px;
+  margin: 7% auto;
+  box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+  padding: 2% 5% 2% 5%;
+  background-color: #ff793f;
+}
+
+#signup-form-errors, #login-form-errors{
+    background: #ffda79;
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+ }
+
+/* the header form  */
+header {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    color: white;
+}
+/* Login title form */
+header h2 {
+    font-size: 250%;
+    color: white;
+}
+/*  A welcome message of login form */
+header p {
+    letter-spacing: 0.05em;
+}
+
+.input-item {
+    background: #fff;
+    color: #333;
+    padding: 14.5px 0px 15px 9px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+/* icon */
+.fa-user-circle{
+  margin-bottom: 5%;
+}
+
+.fa-pencil-square-o{
+  margin-bottom: 2%;
+}
+
+/* inputs form  */
+input[class="form-input"]{
+    width: 100%;
+    height: 50px;
+
+    margin-top: 2%;
+    padding: 15px;
+
+    font-size: 16px;
+    color: #5E6472;
+
+    outline: none;
+    border: none;
+
+    border-radius: 5px 5px 5px 5px;
+    transition: 0.2s linear;
+
+}
+
+/* focus  */
+input:focus {
+    transform: translateX(-2px);
+    border-radius: 5px;
+}
+
+input[type="checkbox"]+label{
+  font-size: 12px;
+  color: white;
+}
+
+input[id="txt-input-1"] {
+  width: 49.5%;
+}
+
+input[id="pwd"] {
+  width: 49.5%;
+}
+
+input[id="txt-input-2"] {
+  width: 37%;
+}
+
+input[id="txt-input-3"] {
+  width: 18%;
+}
+
+input[id="txt-input-4"] {
+  width: 43%;
+}
+
+.account{
+  margin: 0 auto 0 auto;
+  text-align: center;
+  font-size: 16px;
+  color: white;
+  letter-spacing: 0.05em;
+}
+
+/* buttons  */
+button {
+    display: inline-block;
+    color: #252537;
+
+    width: 100%;
+    height: 50px;
+
+    padding: 0 20px;
+    background: #fff;
+    border-radius: 5px;
+
+    outline: none;
+    border: none;
+
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.2s linear;
+    margin: 7% auto;
+    letter-spacing: 0.05em;
+}
+
+.btn-signup{
+  display: inline-block;
+  color: #252537;
+
+  width: 70%;
+  height: 50px;
+
+  padding: 0 20px;
+  background: #fff;
+  border-radius: 5px;
+
+  outline: none;
+  border: none;
+  
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.2s linear;
+  margin: 7% auto;
+  letter-spacing: 0.05em;
+}
+/* Submits */
+.submits {
+    width: 48%;
+    display: inline-block;
+    float: left;
+}
+
+/*       Forgot Password button   */
+.frgt-pass {background: transparent; color:white;}
+
+/*     Sign Up button  */
+.sign-up {background: white;}
+
+/* buttons hover */
+button:hover {
+    transform: translatey(3px);
+    box-shadow: none;
+}
+
+/* buttons hover Animation */
+button:hover {
+    animation: ani9 0.4s ease-in-out infinite alternate;
+}
+@keyframes ani9 {
+    0% {
+        transform: translateY(3px);
+    }
+    100% {
+        transform: translateY(5px);
+    }
+
+}
+
+.content-center {
+       text-align: center;
+}

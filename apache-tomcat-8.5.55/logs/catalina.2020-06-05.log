@@ -1,0 +1,5 @@
+05-Jun-2020 02:24:09.930 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Jun-2020 02:24:09.941 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Jun-2020 02:24:09.969 WARNING [localhost-startStop-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [etrolley-1.00] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+05-Jun-2020 02:24:09.975 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Jun-2020 02:24:09.978 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

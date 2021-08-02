@@ -1,0 +1,139 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Select Supermarket</title>
+		<!-- Remember to include jQuery :) -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+		<!-- jQuery Modal -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+
+		<link rel="stylesheet" href="../css/pure-min.css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Montserrat&display=swap" rel="stylesheet"> 
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+		<link rel="stylesheet" href="../css/style.css">
+		<link rel="stylesheet" href="../css/supermarket-list.css">
+
+	</head>
+
+	<body>
+		<div class="header">
+			<div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+				<a class="pure-menu-heading" href="">e-Trolley</a>
+
+				<ul class="pure-menu-list">
+					<li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Home</a></li>
+					<li class="pure-menu-item"><a href="#" class="pure-menu-link">Login</a></li>
+					<li class="pure-menu-item"><a href="#" class="pure-menu-link">Sign Up</a></li>
+				</ul>
+			</div>
+		</div>
+		<main class="supermarket-list-container">
+			<section class="supermarket-list-titles">
+				<div class="pure-g">
+					<div class="pure-u-18-24">
+						<h1>Where do you whant to shop?</h1>
+						<p class="results-number">
+							Found <strong>3 supermarkets</strong> near <span class="costumer-address">Via del Portello 2, Padova (PD)</span>
+						</p>
+					</div>
+					<div class="pure-u-6-24">
+						<img class="pure-img" src="../images/supermarket.png" alt="">
+					</div>
+				</div>
+			</section>
+			
+			<section class="supermarket-list">
+				<ul id="supermarket-ul">
+					<li class="supermarket-entry">
+						<div class="pure-g">
+							<div class="pure-u-6-24">
+								<figure class="supermarket-logo">
+									<img src="../images/logo/logo1.jpg" class="pure-img" alt="">
+								</figure>
+							</div>
+							<div class="pure-u-12-24 supermarket-description">
+								<h1 class="supermarket-name">Despar</h1>
+								<address class="supermarket-address">
+									<i class="fa fa-map-marker" aria-hidden="true"></i>
+									Via del Portello 5, Padova (PD), Italy
+								</address>
+								<p class="supermarket-distance">
+									<i class="fa fa-arrows-h" aria-hidden="true"></i>
+									<strong>512</strong> meters from you
+								</p>
+								
+								<div class="supermarket-rating">
+									<span class="fa fa-star star-checked"></span>
+									<span class="fa fa-star star-checked"></span>
+									<span class="fa fa-star star-checked"></span>
+									<span class="fa fa-star"></span>
+									<span class="fa fa-star"></span>
+								</div>
+							</div>
+							<div class="pure-u-6-24 supermarket-btn-container">
+								<a class="pure-button supermarket-btn supermarket-view-prd-btn" href="product-select.html">
+									<i class="fa fa-shopping-cart fa-lg"></i>
+									View Products
+								</a>
+								
+								<a class="pure-button supermarket-btn supermarket-view-map-btn" href="#map-modal" rel="modal:open">
+									<i class="fa fa-map" aria-hidden="true"></i>
+									View on map
+								</a>
+							</div>
+						</div>
+					</li>
+					
+					<li class="supermarket-entry">
+						<div class="pure-g">
+							<div class="pure-u-6-24">
+								<figure class="supermarket-logo">
+									<img src="../images/logo/logo2.png" class="pure-img" alt="">
+								</figure>
+							</div>
+							<div class="pure-u-12-24 supermarket-description">
+								<h1 class="supermarket-name">Alì</h1>
+								<address class="supermarket-address">
+									<i class="fa fa-map-marker" aria-hidden="true"></i>
+									Via Giovanni Gradenigo 18, Padova (PD), Italy
+								</address>
+								<p class="supermarket-distance">
+									<i class="fa fa-arrows-h" aria-hidden="true"></i>
+									<strong>824</strong> meters from you
+								</p>
+								<div class="supermarket-rating">
+									<span class="fa fa-star star-checked"></span>
+									<span class="fa fa-star star-checked"></span>
+									<span class="fa fa-star star-checked"></span>
+									<span class="fa fa-star star-checked"></span>
+									<span class="fa fa-star"></span>
+								</div>
+							</div>
+							<div class="pure-u-6-24 supermarket-btn-container">
+								<a class="pure-button supermarket-btn supermarket-view-prd-btn" href="product-select.html">
+									<i class="fa fa-shopping-cart fa-lg"></i>
+									View Products
+								</a>
+								
+								<a class="pure-button supermarket-btn supermarket-view-map-btn" href="#">
+									<i class="fa fa-map" aria-hidden="true"></i>
+									View on map
+								</a>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</section>
+
+			<div id="map-modal" class="modal" style="max-width: 650px; font-family: 'Archivo Black', sans-serif;">
+				<h2><i class="fa fa-map-pin" aria-hidden="true"></i> Despar Position</h2>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.0983504510023!2d11.88983921524079!3d45.407356279100384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477edaf741129acb%3A0xe1364bdb9acaa9cb!2sVia%20del%20Portello%2C%205%2C%2035131%20Padova%20PD!5e0!3m2!1sit!2sit!4v1587636954031!5m2!1sit!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+			</div>
+		</main>
+	</body>
+</html>

@@ -1,0 +1,25 @@
+{
+    "address": "Via del Portello 20, Padova (PD)",
+    "supermarkets": [
+        {
+            "id": 1,
+            "name": "Despar",
+            "address": "Via Del Portello 5, Padova (PD)",
+            "distance": "828",
+            "logo": "\/images\/logo\/logo1.jpg",
+            "rating": 3,
+            "latitude": "45.407340",
+            "longitude": "11.892030"
+        },
+        {
+            "id": 2,
+            "name": "Al\u00ec",
+            "address": "Via Giovanni Gradenigo 18, Padova (PD)",
+            "distance": "511",
+            "logo": "\/images\/logo\/logo2.png",
+            "rating": 4,
+            "latitude": "45.409050",
+            "longitude": "11.896770"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+/** Dashboard stylesheet **/
+.etrolley-site-main{
+    background-image: url('../images/splash.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    padding-bottom: 200px;
+    padding-top: 200px;
+}
+
+.container{
+    margin: auto;
+}
+
+.leftpane{
+    /* width: 33%;
+    min-width: 350px; */
+    height: available;
+    min-height: 460px;
+    /*float: left;*/
+    background-color:green;
+    border-collapse: collapse;
+}
+
+.middlepane{
+    /*width: 34%;
+    min-width: 350px;
+    height: available; */
+    min-height: 460px;
+    /*float: left; */
+    background-color: orangered;
+    border-collapse: collapse;
+}
+
+.rightpane{
+    /*width: 33%;
+    min-width: 350px;
+    height: available; */
+    min-height: 460px;
+    /*float: left;*/
+    background-color: darkorange;
+    border-collapse: collapse;
+}
+
+.content-center{
+    text-align: center;
+}

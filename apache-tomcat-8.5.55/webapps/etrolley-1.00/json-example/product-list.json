@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Chef",
+        "description": "Panna 3 x 125 ml",
+        "unit_price": 1.25,
+        "image": "\/images\/products\/chef-panna.png",
+        "quantity": 50
+    },
+    {
+        "id": 2,
+        "name": "Pan Bauletto",
+        "description": "Mulino Bianco Pan Bauletto Bianco 400 g",
+        "unit_price": 1.5,
+        "image": "\/images\/products\/pan-bauletto.png",
+        "quantity": 21
+    },
+    {
+        "id": 3,
+        "name": "Gocciole",
+        "description": "Pavesi Gocciole Chocolate 500g",
+        "unit_price": 2.32,
+        "image": "\/images\/products\/gocciole.png",
+        "quantity": 18
+    },
+    {
+        "id": 4,
+        "name": "Acqua Sant'Anna",
+        "description": "Sant'Anna Naturale Sorgente 6 x 1,5 L",
+        "unit_price": 1.8,
+        "image": "\/images\/products\/acqua.png",
+        "quantity": 35
+    }
+]
