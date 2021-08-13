@@ -4,7 +4,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
+* The project was encoded to be part of the Web Applications Master Course. 
+*  Model - View Controller Design Patern, SQL, Tomcat, Javascript
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
